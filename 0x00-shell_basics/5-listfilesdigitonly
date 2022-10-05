@@ -1,0 +1,18 @@
+#!/bin/bash
+echo "total 24                                                                                                                           
+
+drwxr-xr-x 2 0 0  139 Oct  5 15:28 .                                                                                               
+
+drwxr-xr-x 4 0 0   60 Oct  5 09:24 ..                                                                                              
+
+-rwxr--r-- 1 0 0   69 Oct  5 12:05 0-current_working_directory                                                                     
+
+-rwxr--r-- 1 0 0   70 Oct  5 12:14 1-listit                                                                                        
+
+-rwxr--r-- 1 0 0   28 Oct  5 12:23 2-bring_me_home                                                                                 
+
+-rw-r--r-- 1 0 0  242 Oct  5 12:37 3-listfiles                                                                                     
+
+-rwxr--r-- 1 0 0 1000 Oct  5 15:28 4-listmorefiles                                                                                 
+
+-rw-r--r-- 1 0 0   36 Oct  5 09:45 README.md  "
