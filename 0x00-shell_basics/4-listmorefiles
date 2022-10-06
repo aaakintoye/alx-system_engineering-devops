@@ -1,16 +1,2 @@
 #!/bin/bash
-echo "total 20                                                                                                                           
-
-drwxr-xr-x 2 root root 116 Oct  5 12:37 .                                                                                          
-
-drwxr-xr-x 4 root root  60 Oct  5 09:24 ..                                                                                         
-
--rwxr--r-- 1 root root  69 Oct  5 12:05 0-current_working_directory                                                                
-
--rwxr--r-- 1 root root  70 Oct  5 12:14 1-listit                                                                                   
-
--rwxr--r-- 1 root root  28 Oct  5 12:23 2-bring_me_home                                                                            
-
--rw-r--r-- 1 root root 242 Oct  5 12:37 3-listfiles                                                                                
-
--rw-r--r-- 1 root root  36 Oct  5 09:45 README.md"
+ls -la
